@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\MVC Application\MVC Application\bin\Debug\netcoreapp2.1\MVC Application.deps.json
+C:\Users\Admin\Desktop\MVC Application\MVC Application\bin\Debug\netcoreapp2.1\MVC Application.runtimeconfig.json
+C:\Users\Admin\Desktop\MVC Application\MVC Application\bin\Debug\netcoreapp2.1\MVC Application.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MVC Application\MVC Application\bin\Debug\netcoreapp2.1\MVC Application.dll
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.TagHelpers.input.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.TagHelpers.output.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\MVC Application\MVC Application\bin\Debug\netcoreapp2.1\MVC Application.pdb
+C:\Users\Admin\Desktop\MVC Application\MVC Application\bin\Debug\netcoreapp2.1\MVC Application.Views.dll
+C:\Users\Admin\Desktop\MVC Application\MVC Application\bin\Debug\netcoreapp2.1\MVC Application.Views.pdb
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.Views.pdb
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.dll
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.pdb
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\MVC Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\MVC Application\MVC Application\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.g.cshtml.cs
